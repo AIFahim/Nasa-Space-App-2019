@@ -34,7 +34,8 @@ public class Frag_One extends Fragment {
        wb.setWebChromeClient(new WebChromeClient());
         WebSettings webSettings = wb.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        wb.loadUrl("https://aqicn.org/city/bangladesh/dhaka/us-consulate/");
+       // wb.loadUrl("https://aqicn.org/city/bangladesh/dhaka/us-consulate/");
+        wb.loadUrl("https://nasaspaceapps.000webhostapp.com/api/app/");
 
         wb.setOnKeyListener(new View.OnKeyListener() {
             @Override

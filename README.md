@@ -20,9 +20,8 @@
 
 ## Screens : 
 
-<img src="https://user-images.githubusercontent.com/33654834/79976175-ff971c00-84bd-11ea-991e-ead8bf98baed.jpg"/>  |  <img src="https://user-images.githubusercontent.com/33654834/79999079-4ea07980-84dd-11ea-9b6f-63db6fadfc9b.png"/>  | <img src="https://user-images.githubusercontent.com/33654834/79977513-32421400-84c0-11ea-8873-9a7098935054.jpg"/>  
-:-------------------------:|:-------------------------:|:-------------------------:
-
+<img src="https://user-images.githubusercontent.com/33654834/79976175-ff971c00-84bd-11ea-991e-ead8bf98baed.jpg"/>  | <img src="https://user-images.githubusercontent.com/33654834/79977513-32421400-84c0-11ea-8873-9a7098935054.jpg"/>  
+:-------------------------:|:-------------------------:
 
 
 

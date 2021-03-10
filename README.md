@@ -1,7 +1,7 @@
-# Nasa Space App Challenge 2019 ( Android Application )
+# Nasa Space App Challenge 2019 (Android Application)
 
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
-[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Nasa-Space-App-2019-Website/blob/master/LICENSE)
+[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Nasa-Space-App-2019-Android-Application/blob/master/LICENSE)
 
 <hr>
 
